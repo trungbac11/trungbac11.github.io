@@ -144,7 +144,7 @@ await new Promise(resolve=>{
   document.head.append(configScript);
 });
 const settings=window.PORTFOLIO_CONFIG||{};
-function loadImage(element,path){if(!element||!path)return;element.addEventListener('load',()=>{element.hidden=false});element.addEventListener('error',()=>{element.hidden=true});element.src=path;}
+function loadImage(element,path){if(!element||!path)return;element.loading='eager';element.addEventListener('load',()=>{element.hidden=false});element.addEventListener('error',()=>{element.hidden=true});element.src=path;}
 loadImage(document.querySelector('#avatar-image'),settings.avatar);
 loadImage(document.querySelector('#company-image'),settings.companyLogo);
 
