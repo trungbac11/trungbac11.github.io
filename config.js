@@ -35,7 +35,7 @@ window.PORTFOLIO_CONFIG = {
   },
   projectImages: {
     cdc: 'assets/images/projects/cdc.jpg',
-    music: 'assets/images/projects/music.jpg',
+    football: 'assets/images/projects/football.jpg',
     vietgreen: 'assets/images/projects/vietgreen.jpg',
     video: 'assets/images/projects/video.jpg'
   }
