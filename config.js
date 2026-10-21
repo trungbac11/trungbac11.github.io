@@ -29,9 +29,9 @@ window.PORTFOLIO_CONFIG = {
   // Empty links leave the credential button disabled.
   certificateLinks: {
     scudem: '',
-    'spring-school': '',
-    aiesec: '',
-    datathon: ''
+    'spring-school': 'https://drive.google.com/file/d/1hYqNK4JHZfe1_irOxVXsZ7MjPJkT4a05/view',
+    aiesec: 'https://drive.google.com/file/d/1YAMsUAVQ9Hn3ksW4PNzCAboMDUw_AZ3V/view',
+    datathon: 'https://drive.google.com/file/d/19IjRO2HQryZbS37hLI7SOk4CbSO6TTZL/view'
   },
   projectImages: {
     cdc: 'assets/images/projects/cdc.jpg',
