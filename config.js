@@ -23,7 +23,7 @@ window.PORTFOLIO_CONFIG = {
     //   example: true
     // }
   ],
-  companyLogo: 'assets/images/companies/sacombank.png',
+  companyLogo: 'assets/images/companies/sacombank.svg',
   cv: 'assets/cv/Tran-Trung-Bac-CV.pdf',
   // Paste Google Drive file-sharing links (Viewer access) between the quotes.
   // Empty links leave the credential button disabled.
