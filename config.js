@@ -10,6 +10,13 @@ window.PORTFOLIO_CONFIG = {
       period: '2022 — 2026',
       logo: 'assets/images/education/hcmus.png',
       highlights: ['GPA 3.42 / 4.0', 'Graduated one semester early']
+    },
+    {
+      name: 'Phan Ngoc Hien High School for the Gifted',
+      degree: 'High School Diploma, Informatics',
+      period: '2019 — 2022',
+      logo: 'assets/images/education/phan-ngoc-hien.png',
+      detail: 'Second Prize, Provincial Excellent Student Contest in Informatics'
     }
     // To add a school: insert a comma after the previous object, then copy
     // and customize this example. The NYCU example is NOT an enrollment claim.
@@ -40,4 +47,5 @@ window.PORTFOLIO_CONFIG = {
     video: 'assets/images/projects/video.jpg'
   }
 };
+
 
