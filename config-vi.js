@@ -13,7 +13,7 @@ window.PORTFOLIO_CONFIG = {
     },
     {
       name: 'Trường THPT Chuyên Phan Ngọc Hiển',
-      degree: 'THPT chuyên Tin học',
+      degree: 'Chuyên Tin học',
       period: '2019 — 2022',
       logo: 'assets/images/education/phan-ngoc-hien.png',
       detail: 'Giải Nhì học sinh giỏi cấp tỉnh môn Tin học'
